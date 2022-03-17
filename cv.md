@@ -14,3 +14,19 @@ I want to become a front-end developer.
 * CSS
 * JavaScript
 ---
+## Code example:
+```
+function hello() {
+    alert('Hello!');
+}
+
+hello();
+```
+---
+## Education:
+* Donbas National Academy of Civil Engineering and Architecture
+* YouTube
+* learn.javaScript
+---
+## Language:
+English - A
